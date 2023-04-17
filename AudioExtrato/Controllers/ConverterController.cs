@@ -8,5 +8,22 @@ namespace AudioExtrato.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public ActionResult AudioUpload(HttpPostedFileBase file)
+        {
+            if (file != null && file.ContentLength > 0)
+            {
+                
+                ConvertToAudio(file);
+            }
+            return View();
+        }
+
+
+        public IActionResult ConvertToAudio(HttpPostedFileBase audio)
+        {
+            
+        }
     }
 }
