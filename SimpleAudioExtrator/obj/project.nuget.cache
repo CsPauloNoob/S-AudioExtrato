@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "roO6FFd0dV7Tt11sk4jfflBQl/W85TqUTTg5Irdq2yX5BJ9qo4fbMUwKORkD3lSQUWAQmOaGY1tv5ED4zdi6pg==",
+  "dgSpecHash": "2NdVouh8ilqlVlGXVO/cTCs2ke2O5pgyirZhA6wUuhT5jPMY/yZ/++r3t/vTjBZVGfgX/QjsCy/SgipL4hVlLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\T-GAMER\\Documents\\PropjetosVS2022\\Simple Extrato\\SimpleAudioExtrator\\SimpleAudioExtrator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\nreco.videoconverter\\1.2.1\\nreco.videoconverter.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
